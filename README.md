@@ -74,22 +74,6 @@ A dual-filter mechanism is implemented for handling large datasets:
 * **Undergraduate**: Enter `2014001`,`2014002`...
 * **Graduate**: Enter `2014101`,`2014102`...
 
-### Screenshots
-
-**Login Interface**
-![Login](path/to/your/screenshot_login.png)
-*Figure 1: Initial login screen with cue banner hints.*
-
-**Student Mode**
-![Student Mode](path/to/your/screenshot_student.png)
-*Figure 2: Course selection interface with real-time fee calculation.*
-
-**Admin Mode**
-![Admin Mode](path/to/your/screenshot_admin.png)
-*Figure 3: Global search and administrative force-drop functionality.*
-
-*(Note: Replace the image paths above with your actual screenshot files in the repository)*
-
 ## Future Improvements
 
 * **Persistence**: Integrate SQLite or file I/O to save registration data permanently.
