@@ -82,10 +82,8 @@ A dual-filter mechanism is implemented for handling large datasets:
 
 ## Author
 
-* **Name**: [SäniaJK]
+* **Name**: SäniaJK
 * **Role**: Lead Developer & Architect
-* **Date**: December 2025
-* **Name**: [说点道理]
+* **Name**: 说点道理
 * **Role**: OOP Design Contributor & Documentation Engineer
-* **Date**: December 2025
 ---
