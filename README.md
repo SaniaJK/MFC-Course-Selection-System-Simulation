@@ -82,25 +82,6 @@ A dual-filter mechanism is implemented for handling large datasets:
 
 ## Author
 
-<table style="width:100%; text-align:center;">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SaniaJK">
-        <img src="https://github.com/SaniaJK.png" width="100px;" alt="SäniaJK"/>
-        <br />
-        <sub><b>SäniaJK</b></sub>
-      </a>
-      <br />
-      Lead Developer & Architect
-    </td>
-    <td align="center">
-      <a href="https://github.com/ShawdeanDory"> 
-        <img src="https://github.com/ShawdeanDory.png" width="100px;" alt="说点道理"/>
-        <br />
-        <sub><b>说点道理</b></sub>
-      </a>
-      <br />
-      OOP Design Contributor
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/SaniaJK/MFC-Course-Selection-System-Simulation/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SaniaJK/MFC-Course-Selection-System-Simulation" />
+</a>
